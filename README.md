@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **[linkedin.com/in/priya-singh-987258251]**
+- 📫 How to reach me **[My LinkedIn Profile](https://linkedin.com/in/priya-singh-987258251)**
 
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world 🌏🙂**
 
