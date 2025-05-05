@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pri-ya-singh&label=Profile%20views&color=0e75b6&style=flat" alt="pri-ya-singh" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **[LinkedIn Profile](https://linkedin.com/in/priya-singh-987258251)**
 
