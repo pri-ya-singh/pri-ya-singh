@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Backend+Engineer;MERN+Stack+Developer;Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved" />
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://github.com/pri-ya-singh/pri-ya-singh/blob/main/happy.gif">
@@ -73,18 +73,6 @@
 <a href="https://kaggle.com/priyasingh22mip10003">
 <img src="https://skillicons.dev/icons?i=kaggle" />
 </a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=pri-ya-singh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-ya-singh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
 
