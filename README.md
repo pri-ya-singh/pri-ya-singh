@@ -19,54 +19,111 @@
 
 ## 🚀 Technical Skills
 
-**Languages:**  
-C++, Python, JavaScript  
+### 💻 Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="40" width="40"/>
+</p>
 
-**Backend & Frameworks:**  
-Node.js, Express.js, Flask  
+---
 
-**Core Concepts:**  
-Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, DBMS  
+### ⚙️ Backend & Frameworks
+<p align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodejs.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" height="40" width="40"/>
+</p>
 
-**Databases:**  
-MySQL, MongoDB  
+---
 
-**Tools & Technologies:**  
-Git, GitHub, Linux (Ubuntu), libpcap, Scapy, Matplotlib, Power BI  
+### 🧠 Core Concepts
+<p align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="40" width="40" title="Data Structures & Algorithms"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="40" width="40" title="Operating Systems"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/networkx.svg" height="40" width="40" title="Computer Networks"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" width="40" title="DBMS"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="40" width="40"/>
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+<p align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" width="40" title="Scapy & Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="40" width="40"/>
+</p>
+
 
 ---
 
 ## 🌐 Coding Profiles
 
-- 🔹 **LeetCode:** https://leetcode.com/u/Pri-ya-Singh/  
-- 🔹 **GeeksforGeeks:** https://www.geeksforgeeks.org/user/priyasingh511/  
-- 🔹 **Codeforces:** https://codeforces.com/profile/priyasingh.ps10003  
-- 🔹 **Kaggle:** https://kaggle.com/priyasingh22mip10003  
+<p align="left">
+
+<a href="https://leetcode.com/u/Pri-ya-Singh/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/priyasingh511/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="40" width="40"/>
+</a>
+
+<a href="https://codeforces.com/profile/priyasingh.ps10003" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" height="40" width="40"/>
+</a>
+
+<a href="https://kaggle.com/priyasingh22mip10003" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" height="40" width="40"/>
+</a>
+
+</p>
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/priya-singh-987258251" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+
+<a href="https://linkedin.com/in/priya-singh-987258251" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://kaggle.com/priyasingh22mip10003" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Pri-ya-Singh/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/user/priyasingh511/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/priyasingh.ps10003" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/pri-ya-singh" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" width="40"/>
 </a>
 
-<a href="https://kaggle.com/priyasingh22mip10003" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/pri-ya-singh" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/priyasingh511" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
-
-<a href="https://codeforces.com/profile/priyasingh.ps10003" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
