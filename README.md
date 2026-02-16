@@ -7,47 +7,23 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Backend+Engineer;MERN+Stack+Developer;Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved" />
+  
+<!-- Light Mode Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Backend+Engineer;MERN+Stack+Developer;Machine+Learning+Enthusiast" #gh-light-mode-only />
+
+<!-- Dark Mode Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Backend+Engineer;MERN+Stack+Developer;Machine+Learning+Enthusiast" #gh-dark-mode-only />
+
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://github.com/pri-ya-singh/pri-ya-singh/blob/main/happy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pri-ya-singh&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Integrated M.Tech in Computer Science (Minor: Computational & Data Science)
-- 💻 Passionate about **MERN Stack, Backend Engineering & Machine Learning**
-- 🌱 Currently learning **Distributed Systems & Networking**
-- 🧠 Solved **500+ DSA Problems**
-- 🚀 Strong in **C++, TCP/IP, Multi-threading & System Programming**
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
-</p>
-
-### ⚙️ Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,react" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,flask,mysql,mongodb,git,github,linux,vscode" />
 </p>
 
 ---
@@ -56,17 +32,53 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Pri-ya-Singh/" target="_blank">
-<img src="https://leetcard.jacoblin.cool/Pri-ya-Singh?theme=dark&font=Fira%20Code&ext=contest" height="200"/>
+<a href="https://leetcode.com/u/Pri-ya-Singh/">
+<img src="https://leetcard.jacoblin.cool/Pri-ya-Singh?theme=light&font=Fira%20Code&ext=contest" #gh-light-mode-only />
+<img src="https://leetcard.jacoblin.cool/Pri-ya-Singh?theme=dark&font=Fira%20Code&ext=contest" #gh-dark-mode-only />
+
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/priyasingh.ps10003" target="_blank">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyasingh.ps10003&theme=dark" height="200"/>
+<a href="https://codeforces.com/profile/priyasingh.ps10003">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyasingh.ps10003&theme=light" #gh-light-mode-only />
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyasingh.ps10003&theme=dark" #gh-dark-mode-only />
+
 </a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<!-- Light Mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=pri-ya-singh&show_icons=true&theme=default&hide_border=true" height="165" #gh-light-mode-only/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-ya-singh&layout=compact&theme=default&hide_border=true" height="165" #gh-light-mode-only/>
+
+<!-- Dark Mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=pri-ya-singh&show_icons=true&theme=tokyonight&hide_border=true" height="165" #gh-dark-mode-only/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-ya-singh&layout=compact&theme=tokyonight&hide_border=true" height="165" #gh-dark-mode-only/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pri-ya-singh&theme=default&hide_border=true" #gh-light-mode-only/>
+
+<img src="https://streak-stats.demolab.com?user=pri-ya-singh&theme=tokyonight&hide_border=true" #gh-dark-mode-only/>
 
 </p>
 
@@ -92,26 +104,6 @@
 <img src="https://skillicons.dev/icons?i=kaggle" />
 </a>
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=pri-ya-singh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-ya-singh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=pri-ya-singh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
