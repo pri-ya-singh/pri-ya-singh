@@ -21,10 +21,8 @@
 ## 👩‍💻 About Me
 
 - 🎓 Integrated M.Tech in Computer Science (Minor: Computational & Data Science)
-- 💻 Passionate about **MERN Stack, Backend Engineering & Machine Learning**
-- 🌱 Currently learning **Distributed Systems & Networking**
-- 🧠 Solved **500+ DSA Problems**
-- 🚀 Strong in **C++, TCP/IP, Multi-threading & System Programming**
+- 💻 Passionate about **MERN Stack & Machine Learning**
+- 🌱 Currently learning **Soket Programming & Networking**
 
 ---
 
