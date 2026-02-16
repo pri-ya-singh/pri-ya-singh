@@ -1,90 +1,71 @@
-<h1 align="center">Hi 👋, I'm Priya Singh</h1>
-<h3 align="center">Software Developer | C++ | Backend Development | Systems Programming</h3>
+<h1 align="center">
+  Hi 👋, I'm Priya Singh
+</h1>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/pri-ya-singh/pri-ya-singh/blob/main/happy.gif">
+<h3 align="center">
+  💻 Software Developer | MERN Stack | Machine Learning | Systems Programming
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Backend+Engineer;MERN+Stack+Developer;Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved" />
+</p>
+
+<img align="right" alt="Coding" width="380" src="https://github.com/pri-ya-singh/pri-ya-singh/blob/main/happy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pri-ya-singh&label=Profile%20views&color=0e75b6&style=flat" alt="pri-ya-singh" />
+  <img src="https://komarev.com/ghpvc/?username=pri-ya-singh&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Integrated M.Tech in Computer Science (Minor: Computational & Data Science) at **VIT Bhopal University**
-- 💻 Passionate about **MERN Stack Development, Machine Learning **
-- 🌱 Currently learning **Distributed Systems and Networking**
+- 🎓 Integrated M.Tech in Computer Science (Minor: Computational & Data Science)
+- 💻 Passionate about **MERN Stack, Backend Engineering & Machine Learning**
+- 🌱 Currently learning **Distributed Systems & Networking**
+- 🧠 Solved **500+ DSA Problems**
+- 🚀 Strong in **C++, TCP/IP, Multi-threading & System Programming**
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Tech Stack
 
 ### 💻 Languages
-<p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="40" width="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
-
----
 
 ### ⚙️ Backend & Frameworks
-<p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodejs.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" height="40" width="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,react" />
 </p>
-
----
-
-### 🧠 Core Concepts
-<p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="40" width="40" title="Data Structures & Algorithms"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="40" width="40" title="Operating Systems"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/networkx.svg" height="40" width="40" title="Computer Networks"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" width="40" title="DBMS"/>
-</p>
-
----
 
 ### 🗄️ Databases
-<p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="40" width="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
----
-
-### 🛠️ Tools & Technologies
-<p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" width="40" title="Scapy & Matplotlib"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="40" width="40"/>
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
-
 
 ---
 
 ## 🌐 Coding Profiles
 
-<p align="left">
+<p align="center">
 
 <a href="https://leetcode.com/u/Pri-ya-Singh/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
+<img src="https://leetcard.jacoblin.cool/Pri-ya-Singh?theme=dark&font=Fira%20Code&ext=contest" height="200"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/priyasingh511/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="40" width="40"/>
-</a>
+</p>
+
+<p align="center">
 
 <a href="https://codeforces.com/profile/priyasingh.ps10003" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" height="40" width="40"/>
-</a>
-
-<a href="https://kaggle.com/priyasingh22mip10003" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" height="40" width="40"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=priyasingh.ps10003&theme=dark" height="200"/>
 </a>
 
 </p>
@@ -93,37 +74,44 @@
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/priya-singh-987258251" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" width="40"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://kaggle.com/priyasingh22mip10003" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" height="40" width="40"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Pri-ya-Singh/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" width="40"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/user/priyasingh511/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="40" width="40"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/priyasingh.ps10003" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="40" width="40"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/pri-ya-singh" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" width="40"/>
+<a href="https://linkedin.com/in/priya-singh-987258251">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://github.com/pri-ya-singh">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:priyasingh.ps10003@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+<a href="https://kaggle.com/priyasingh22mip10003">
+<img src="https://skillicons.dev/icons?i=kaggle" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=pri-ya-singh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri-ya-singh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=pri-ya-singh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
