@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  💻 Machine Learning | MERN Stack
+  💻 Machine Learning | Software Development
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Developer;AI+and+Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved" />
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://github.com/pri-ya-singh/pri-ya-singh/blob/main/happy.gif">
@@ -20,9 +20,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Integrated M.Tech in Computer Science (Minor: Computational & Data Science)
-- 💻 Passionate about **MERN Stack & Machine Learning**
-- 🌱 Currently learning **Soket Programming & Networking**
+- 🎓 Integrated M.Tech in Computer Science & Engineering at VIT Bhopal (CGPA: 9.10/10)
+- 💻 Passionate about Software Development, AI/ML, and Backend Engineering
+- 🚀 Built projects using LangGraph, LangChain, Flask, React, and C++
+- 🧩 Solved 500+ DSA problems across LeetCode and GeeksforGeeks
+- 🌱 Currently exploring System Design, Socket Programming, and Distributed Systems
 
 ---
 
