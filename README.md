@@ -20,11 +20,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Integrated M.Tech in Computer Science & Engineering at VIT Bhopal (CGPA: 9.10/10)
+- 🎓 Integrated M.Tech in Computer Science & Engineering at VIT Bhopal
 - 💻 Passionate about Software Development, AI/ML, and Backend Engineering
 - 🚀 Built projects using LangGraph, LangChain, Flask, React, and C++
 - 🧩 Solved 500+ DSA problems across LeetCode and GeeksforGeeks
-- 🌱 Currently exploring System Design, Socket Programming, and Distributed Systems
+- 🌱 Currently exploring AI, System Design and Distributed Systems
 
 ---
 
